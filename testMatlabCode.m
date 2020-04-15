@@ -1,5 +1,6 @@
 this is not a code
 
-def myFunction():
-      a=2
-      b=a
+function result = myFunction(arg1)
+      a=2;
+      b=a;
+end
